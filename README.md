@@ -64,7 +64,7 @@ Once you have installed Web Installer Platform open it. From inside the applicat
 <p>
 Next download osTicket. Then extract and copy the "upload" folder into c:\inetpub\wwwroot. Afterwards rename the folder to osTicket
 </P>
-<img src="https://i.imgur.com/TUGiSKi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/IGjeR7M.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 <p>
@@ -89,7 +89,7 @@ Go back into c:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php rename the
 Assign permissions to ost-config.php Disable inheritance->Removeall
 New Permissions->Everyone->all
 </p>
-<img src="https://i.imgur.com/1nYaYGe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/n0scbgL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <p>
 </p>
