@@ -3,6 +3,9 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
+<h3> <a href="https://github.com/yonismuse/osticket-post"> Enterprise Help Desk System Implementation Part 2</a></h3>
+<h3> <a href="https://github.com/yonismuse/osTicket-lifecycle"> Enterprise Help Desk System Implementation Part 3</a></h3>
+
 <h1>osTicket - Prerequisites and Installation</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
